@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "852721011626",
+    "project_id": "meditech-a7ca3",
+    "storage_bucket": "meditech-a7ca3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:852721011626:android:62cf83aa2e846cfcee79d3",
+        "android_client_info": {
+          "package_name": "com.example.medi_tech"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "852721011626-4n0f2pshc6cadblrqdkafjrfhv8p6978.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.medi_tech",
+            "certificate_hash": "43a1bea79090e4281820e45525f45b03319be2a4"
+          }
+        },
+        {
+          "client_id": "852721011626-n1ckbbg2c7oo8oprcldtm2rgd08dlvta.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOljERsGPKJ6qMH40BJSQm2OsOZEpXJec"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "852721011626-n1ckbbg2c7oo8oprcldtm2rgd08dlvta.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
